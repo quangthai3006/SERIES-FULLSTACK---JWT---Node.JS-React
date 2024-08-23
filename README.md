@@ -1,1 +1,1 @@
-# SERIES-FULLSTACK---JWT---Node.JS-React
+# SERIES-FULLSTACK-JWT-Node.JS-React
